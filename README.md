@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I've worked on projects that used technologies such as: C#, .NET Core, NodeJS, GraphQL, Python, Angular 7+, JavaScript, TypeScript, HTML, CSS, Web API, SQL Server, Git and I have experience with agile methodologies.<br>👯 I'm looking to collaborate on a team that wants to grow and build things together<br>🤝 I'm looking for help to become a better person and a better developer each day that passes<br>🌱 I’m currently learning about SOLID principles
+🔭 I've worked on projects that used technologies such as: C#, .NET Core, NodeJS, GraphQL, Python, Angular 7+, JavaScript, TypeScript, HTML, CSS, Web API, SQL Server, Git and I have experience with agile methodologies.<br>👯 I'm looking to collaborate on a team that wants to grow and build things together<br>🤝 I'm looking for help to become a better person and a better developer each day that passes<br>🌱 I’m currently learning Java and Spring Boot
 
 
 ## 🌐 Socials:
