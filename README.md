@@ -6,16 +6,16 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-efernandez) 
 
 # 💻 Tech Stack:
-Frontend<br>
+Frontend<br><br>
 [![My Skills Front](https://skillicons.dev/icons?i=js,html,css,angular,sass,ts,bootstrap)]()
 
-Backend<br>
+Backend<br><br>
 [![My Skills Back](https://skillicons.dev/icons?i=dotnet,java,nodejs,spring)]()
 
-Database<br>
+Database<br><br>
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres)]()
 
-Tools<br>
+Tools<br><br>
 [![Tools](https://skillicons.dev/icons?i=figma,git,github,gitlab,graphql,jenkins,postman,stackoverflow,visualstudio,vscode)]()
 
 # 📊 GitHub Public Repo Stats:
